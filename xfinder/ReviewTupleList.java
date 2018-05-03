@@ -24,6 +24,7 @@ import java.util.ArrayList;
 import java.util.Date;
 /*
 @author: Sara Bahrami <mxbahramizanjani@wichita.edu>
+Date: 05/03/2018
 */
 
 public class ReviewTupleList
